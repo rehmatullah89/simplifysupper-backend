@@ -1,0 +1,36 @@
+[05-Mar-2014 07:55:13 UTC] PHP Notice:  Undefined index: db.connectionString in /home/sohail/public_html/YiiBoilerplate/backend/config/main.php on line 90
+[05-Mar-2014 07:55:13 UTC] PHP Stack trace:
+[05-Mar-2014 07:55:13 UTC] PHP   1. {main}() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:0
+[05-Mar-2014 07:55:13 UTC] PHP   2. require() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:26
+[05-Mar-2014 07:55:13 UTC] PHP Notice:  Undefined index: db.username in /home/sohail/public_html/YiiBoilerplate/backend/config/main.php on line 91
+[05-Mar-2014 07:55:13 UTC] PHP Stack trace:
+[05-Mar-2014 07:55:13 UTC] PHP   1. {main}() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:0
+[05-Mar-2014 07:55:13 UTC] PHP   2. require() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:26
+[05-Mar-2014 07:55:13 UTC] PHP Notice:  Undefined index: db.password in /home/sohail/public_html/YiiBoilerplate/backend/config/main.php on line 92
+[05-Mar-2014 07:55:13 UTC] PHP Stack trace:
+[05-Mar-2014 07:55:13 UTC] PHP   1. {main}() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:0
+[05-Mar-2014 07:55:13 UTC] PHP   2. require() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:26
+[05-Mar-2014 07:55:17 UTC] PHP Notice:  Undefined index: db.connectionString in /home/sohail/public_html/YiiBoilerplate/backend/config/main.php on line 90
+[05-Mar-2014 07:55:17 UTC] PHP Stack trace:
+[05-Mar-2014 07:55:17 UTC] PHP   1. {main}() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:0
+[05-Mar-2014 07:55:17 UTC] PHP   2. require() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:26
+[05-Mar-2014 07:55:17 UTC] PHP Notice:  Undefined index: db.username in /home/sohail/public_html/YiiBoilerplate/backend/config/main.php on line 91
+[05-Mar-2014 07:55:17 UTC] PHP Stack trace:
+[05-Mar-2014 07:55:17 UTC] PHP   1. {main}() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:0
+[05-Mar-2014 07:55:17 UTC] PHP   2. require() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:26
+[05-Mar-2014 07:55:17 UTC] PHP Notice:  Undefined index: db.password in /home/sohail/public_html/YiiBoilerplate/backend/config/main.php on line 92
+[05-Mar-2014 07:55:17 UTC] PHP Stack trace:
+[05-Mar-2014 07:55:17 UTC] PHP   1. {main}() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:0
+[05-Mar-2014 07:55:17 UTC] PHP   2. require() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:26
+[05-Mar-2014 07:55:17 UTC] PHP Notice:  Undefined index: db.connectionString in /home/sohail/public_html/YiiBoilerplate/backend/config/main.php on line 90
+[05-Mar-2014 07:55:17 UTC] PHP Stack trace:
+[05-Mar-2014 07:55:17 UTC] PHP   1. {main}() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:0
+[05-Mar-2014 07:55:17 UTC] PHP   2. require() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:26
+[05-Mar-2014 07:55:17 UTC] PHP Notice:  Undefined index: db.username in /home/sohail/public_html/YiiBoilerplate/backend/config/main.php on line 91
+[05-Mar-2014 07:55:17 UTC] PHP Stack trace:
+[05-Mar-2014 07:55:17 UTC] PHP   1. {main}() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:0
+[05-Mar-2014 07:55:17 UTC] PHP   2. require() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:26
+[05-Mar-2014 07:55:17 UTC] PHP Notice:  Undefined index: db.password in /home/sohail/public_html/YiiBoilerplate/backend/config/main.php on line 92
+[05-Mar-2014 07:55:17 UTC] PHP Stack trace:
+[05-Mar-2014 07:55:17 UTC] PHP   1. {main}() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:0
+[05-Mar-2014 07:55:17 UTC] PHP   2. require() /home/sohail/public_html/YiiBoilerplate/backend/www/index.php:26
